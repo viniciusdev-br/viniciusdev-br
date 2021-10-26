@@ -9,7 +9,7 @@
 
 ![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusdev-br&show_icons=true&theme=radical)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/vinicius-botelho-15716218b)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=white)](https://www.linkedin.com/in/vinicius-botelho-15716218b)
 
 
 
