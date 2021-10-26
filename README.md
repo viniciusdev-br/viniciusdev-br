@@ -6,13 +6,13 @@
 - 😄 Pronouns: Hin/His
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - ⚡ My GitLab profile with contributions to other projects `[UFPA-Digital and App-Tourism]`: [viniciusdev-br](https://gitlab.com/viniciusdev-br)
+- Sand me a email <viniciusdev.br@gmail.com>
 
 ![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusdev-br&show_icons=true&theme=radical)
 
+<hr>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=white)](https://www.linkedin.com/in/vinicius-botelho-15716218b)
-
-
-
 
 
 
@@ -32,4 +32,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Gmail](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&labelColor=FFFFFF&logo=Gmail&Color=white)](<viniciusvcb2002@gmail.com>
+) 
+
 -->
