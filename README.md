@@ -6,7 +6,7 @@
 - 😄 Pronouns: Hin/His
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - ⚡ My GitLab profile with contributions to other projects `[UFPA-Digital and App-Tourism]`: [viniciusdev-br](https://gitlab.com/viniciusdev-br)
-- Sand me a email <viniciusdev.br@gmail.com>
+- Send me a email <viniciusdev.br@gmail.com>
 
 ![Vinicius's github stats](https://github-readme-stats.vercel.app/api?username=viniciusdev-br&show_icons=true&theme=radical)
 
